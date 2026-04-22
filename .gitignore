@@ -1,0 +1,8 @@
+.claude/
+.cursor/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*.docx
+

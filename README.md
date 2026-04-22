@@ -13,7 +13,7 @@ Coursework repository for **Physiology for Engineers**.
   - `4- Homework Project #4_ Action Potentials-2 (2).docx`
 
 - **Full course folder mirror**:
-  - `PFE/` (notes, lecture assets, review PDFs, and exported homework project materials)
+  - Course folders are at the repo root (homework, lecture materials, review files, and books).
 
 ### Notes
 - Large binary assets (e.g. `pdf`, `pptx`, `mp4`, `m4a`) are stored with **Git LFS**.

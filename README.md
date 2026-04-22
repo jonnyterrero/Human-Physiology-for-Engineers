@@ -3,17 +3,18 @@
 Coursework repository for **Physiology for Engineers**.
 
 ### Contents
-- **Homework & projects (Word docs)**:
-  - `1- Homework 1 Cell Population(1).docx`
-  - `1- Homework 3-2.docx`
-  - `1-Homework Project I (1).docx`
-  - `Homework 2 Diffusion Mass Action and Membrane Potential.docx`
-  - `Homework Enzymes Kinetics (1).docx`
-  - `Homework Project 2-DONE.docx`
-  - `4- Homework Project #4_ Action Potentials-2 (2).docx`
+- **Coursework (organized)**:
+  - `coursework/assignments/` — submitted homework/projects (`.docx`)
+  - `coursework/books/` — textbooks/long-form references (`.pdf`)
+  - `coursework/review/` — exam/final review materials
+  - `coursework/refs/` — papers/handouts/reference PDFs
 
-- **Full course folder mirror**:
-  - Course folders are at the repo root (homework, lecture materials, review files, and books).
+- **Course folders (raw exports/materials)**:
+  - `Homework_Projects_export/`
+  - `Hints for Midterm and Final Exams/`
+  - `PFE_I/`, `PFE_II/`
+  - `QHP/`
+  - `Quantitative_Physiologyy_Book_PI/`, `Quantitative_Physiologyy_Book_PII/`, `Quantitative_Physiologyy_Book_PIII/`
 
 ### Notes
 - Large binary assets (e.g. `pdf`, `pptx`, `mp4`, `m4a`) are stored with **Git LFS**.

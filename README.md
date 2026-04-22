@@ -12,6 +12,10 @@ Coursework repository for **Physiology for Engineers**.
   - `Homework Project 2-DONE.docx`
   - `4- Homework Project #4_ Action Potentials-2 (2).docx`
 
+- **Full course folder mirror**:
+  - `PFE/` (notes, lecture assets, review PDFs, and exported homework project materials)
+
 ### Notes
-- This repo currently contains the submitted assignment documents. If/when MATLAB code is added, it will live alongside these files (or under a `src/` / `matlab/` folder).
+- Large binary assets (e.g. `pdf`, `pptx`, `mp4`, `m4a`) are stored with **Git LFS**.
+- If/when MATLAB code is added, it will live alongside these files (or under a `src/` / `matlab/` folder).
 

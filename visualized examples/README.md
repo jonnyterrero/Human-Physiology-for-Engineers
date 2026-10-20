@@ -1,10 +1,12 @@
 # Visualized Examples
 
-Interactive visualizations for every homework/project assignment in this repository. Each page re-implements the course's MATLAB/Simulink model in plain JavaScript using the **same equations, parameters, and numerical schemes** as the original files, with sliders, scenario presets, and hoverable Plotly charts.
+> **Edit in [BME-Computations-and-Visualizations](https://github.com/jonnyterrero/BME-Computations-and-Visualizations/tree/main/human-physiology-for-engineers/visualized-examples).** That copy is canonical; the `visualized examples/` folder in [Human-Physiology-for-Engineers](https://github.com/jonnyterrero/Human-Physiology-for-Engineers) is overwritten from it on every push to `main`.
+
+Interactive visualizations for every Human Physiology for Engineers homework/project assignment. The original MATLAB/Simulink source files referenced below live in [jonnyterrero/Human-Physiology-for-Engineers](https://github.com/jonnyterrero/Human-Physiology-for-Engineers). Each page re-implements the course's MATLAB/Simulink model in plain JavaScript using the **same equations, parameters, and numerical schemes** as the original files, with sliders, scenario presets, and hoverable Plotly charts.
 
 ## How to use
 
-Open **`index.html`** (or any individual page) in a browser — no MATLAB, install, or server needed. An internet connection is required the first time so the Plotly.js charting library can load from its CDN.
+**[Launch the examples index](https://jonnyterrero.github.io/BME-Computations-and-Visualizations/human-physiology-for-engineers/visualized-examples/index.html)**, or open **`index.html`** (or any individual page) in a browser — no MATLAB, install, or server needed. An internet connection is required the first time so the Plotly.js charting library can load from its CDN.
 
 ## Contents
 
